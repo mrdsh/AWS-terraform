@@ -1,2 +1,2 @@
 # AWS-terraform
-AWS Class terraform codes
+AWS Sample terraform codes
